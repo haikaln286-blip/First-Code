@@ -1,0 +1,15 @@
+h1{
+    background-color: aliceblue;
+    color: aqua;
+    text-align: center;
+    font-size: 50px;
+}
+
+h2{
+    color: brown;
+}
+#h2p{text-align: center;}
+#Artikeldua{
+    background-color: aquamarine;
+    color: blue;
+}
